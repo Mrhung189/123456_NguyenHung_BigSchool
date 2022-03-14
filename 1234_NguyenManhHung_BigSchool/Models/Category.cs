@@ -13,6 +13,6 @@ namespace _1234_NguyenManhHung_BigSchool.Models
         [Required]
         [StringLength(255)]
         public string Name { get; set; }
-        //Them code cho nay
+        //Commit lan 1
     }
 }
