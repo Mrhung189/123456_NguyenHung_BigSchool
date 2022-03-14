@@ -6,6 +6,7 @@ using System.Web;
 
 namespace _1234_NguyenManhHung_BigSchool.Models
 {
+    //ahihi
     public class Category
     {
         public byte Id { get; set; }
